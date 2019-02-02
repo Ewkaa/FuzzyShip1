@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 83fc4c280a2478f4792880f02779961e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - path: {instanceID: 0}
+  - wheel: {instanceID: 0}
+  - textureNormal: {fileID: 2800000, guid: abad59c8c9954444aaedfea7b8008bc2, type: 3}
+  - textureBraking: {fileID: 2800000, guid: d13bd3005df284a45bc3672501c2069c, type: 3}
+  - shipRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
